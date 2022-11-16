@@ -13,8 +13,15 @@ Team_List = ["Liverpool","Arsenal","Coventry","Aston Villa","QPR","Chelsea","Bla
 
 
 for c in Team_List :
+  
   print("(",a,")"," : ", Team_List[b])
+  
+  
+  
   a = a+1
+  
+  
+  
   b = b+1
 
 home_Team = input("Home Team : ")
